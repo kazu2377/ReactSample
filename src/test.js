@@ -29,5 +29,5 @@ console.log(state_value.counter);
 let i=connect();
 app=i(app);
 
-console.log("test");
+console.log("いろいろ修正");
 
